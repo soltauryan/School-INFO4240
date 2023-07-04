@@ -10,6 +10,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Reports and Dashboards", "DM Reports and Dashboards", "{3A4C1D11-0065-4D11-8E6E-4E20AEFFB357}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{E7EA8693-700B-4379-83DB-BBC008B3781B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\EscapeHotel DM Information Package.xlsx = ..\..\..\..\..\Downloads\EscapeHotel DM Information Package.xlsx
+		..\..\..\..\..\Downloads\EscapeHotel DM Solution Workbook.xlsx = ..\..\..\..\..\Downloads\EscapeHotel DM Solution Workbook.xlsx
+		..\..\..\..\..\Downloads\EscapeHotel Solution Dimensional Diagram.vsdx = ..\..\..\..\..\Downloads\EscapeHotel Solution Dimensional Diagram.vsdx
+		..\..\..\..\..\Downloads\EscapeHotel Solution Documentation.docx = ..\..\..\..\..\Downloads\EscapeHotel Solution Documentation.docx
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OLTP", "OLTP", "{D81204BD-DC9C-41A1-A56C-EEF9150F9F6A}"
 EndProject
